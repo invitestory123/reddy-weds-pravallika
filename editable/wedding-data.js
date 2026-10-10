@@ -17,7 +17,7 @@ window.WEDDING_DATA = {
   // Drives countdown timer, calendar export, and date displays
   weddingDate: "2026-11-15T10:00:00+05:30",
   displayDate: "November 15th, 2026",
-  tagline: `Two strangers brought together.\nForever begins now.`,
+  tagline: `Two strangers brought together · Forever begins now.\n#prara`,
 
   hero: {
     childhoodGroom: "./editable/assets/childhood-groom.png",
@@ -157,13 +157,13 @@ window.WEDDING_DATA = {
   },
 
   calendar: {
-    title: "Raji Reddy & Pravallika — Wedding Ceremony",
-    description: "Wedding ceremony & celebrations at Eco Villagio.",
+    title: "Raji Reddy & Pravallika (#prara) — Wedding Ceremony",
+    description: "Wedding ceremony & celebrations at Eco Villagio #prara.",
     durationHours: 3,
   },
 
   footer: {
-    thanks: "Thank you for celebrating with us",
-    copyright: "© 2026 Raji Reddy & Pravallika · Handcrafted with love by InviteStory",
+    thanks: "Thank you for celebrating with us · #prara",
+    copyright: "© 2026 Raji Reddy & Pravallika · #prara · Handcrafted with love by InviteStory",
   },
 };
