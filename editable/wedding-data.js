@@ -9,7 +9,10 @@ window.WEDDING_DATA = {
     bride: "Pravallika",
     groomShort: "Raji Reddy",
     brideShort: "Pravallika",
+    hashtag: "#prara",
   },
+
+  hashtag: "#prara",
 
   // Drives countdown timer, calendar export, and date displays
   weddingDate: "2026-11-15T10:00:00+05:30",
