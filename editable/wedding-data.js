@@ -110,35 +110,27 @@ window.WEDDING_DATA = {
   gallery: [
     {
       src: "./editable/assets/moment-1.jpg",
-      alt: "Raji Reddy & Pravallika — Smiles & Love",
+      alt: "Raji Reddy & Pravallika — Embracing with love",
     },
     {
       src: "./editable/assets/moment-2.jpg",
-      alt: "Raji Reddy & Pravallika — Cherished Moments",
+      alt: "Raji Reddy & Pravallika — Moments together",
     },
     {
       src: "./editable/assets/moment-3.jpg",
-      alt: "Raji Reddy & Pravallika — Together in Elegance",
+      alt: "Raji Reddy & Pravallika — Full length portrait",
     },
     {
       src: "./editable/assets/moment-4.jpg",
-      alt: "Raji Reddy & Pravallika — Forever & Always",
+      alt: "Raji Reddy & Pravallika — Deep in love",
     },
     {
-      src: "./editable/assets/event-sangeeth.png",
-      alt: "Sangeeth Celebration — Dancing the night away",
+      src: "./editable/assets/solo-groom.jpg",
+      alt: "Raji Reddy — The Groom",
     },
     {
-      src: "./editable/assets/event-haldi.png",
-      alt: "Lavender Themed Haldi Ceremony",
-    },
-    {
-      src: "./editable/assets/event-carnival.png",
-      alt: "Rainbow Carnival cum Mehendi Festivities",
-    },
-    {
-      src: "./editable/assets/event-wedding.png",
-      alt: "Traditional Telugu Wedding Ceremony",
+      src: "./editable/assets/solo-bride.jpg",
+      alt: "Pravallika — The Bride",
     },
   ],
 
