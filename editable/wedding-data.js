@@ -5,24 +5,24 @@
 
 window.WEDDING_DATA = {
   couple: {
-    bride: "Pravallika",
     groom: "Raji Reddy",
-    brideShort: "Pravallika",
+    bride: "Pravallika",
     groomShort: "Raji Reddy",
+    brideShort: "Pravallika",
   },
 
   // Drives countdown timer, calendar export, and date displays
-  weddingDate: "2026-11-13T19:00:00+05:30",
-  displayDate: "November 13th — 15th, 2026",
+  weddingDate: "2026-11-15T10:00:00+05:30",
+  displayDate: "November 15th, 2026",
   tagline: `Two strangers brought together.\nForever begins now.`,
 
   hero: {
-    childhoodBride: "./editable/assets/childhood-bride.png",
     childhoodGroom: "./editable/assets/childhood-groom.png",
-    portraitBride: "./editable/assets/portrait-bride.png",
+    childhoodBride: "./editable/assets/childhood-bride.png",
     portraitGroom: "./editable/assets/portrait-groom.png",
-    bodyBride: "./editable/assets/body-bride.png",
+    portraitBride: "./editable/assets/portrait-bride.png",
     bodyGroom: "./editable/assets/body-groom.png",
+    bodyBride: "./editable/assets/body-bride.png",
   },
 
   story: [
@@ -43,7 +43,7 @@ window.WEDDING_DATA = {
     },
     {
       title: "The Wedding",
-      date: "November 2026",
+      date: "November 15th, 2026",
       text: "Our favourite chapter begins!! From a first meeting to a beautiful bond and from a cherished 'YES' to a lifetime together.. With hearts full of love and happiness, we invite you to our wedding.Come celebrate our happily ever after with us",
     },
   ],
@@ -106,42 +106,43 @@ window.WEDDING_DATA = {
     mapUrl: "https://share.google/dDJiVc29ke0i9r6KB",
   },
 
+  galleryTitle: "Moments together",
   gallery: [
     {
-      src: "./editable/assets/gallery-1.png",
-      alt: "Sangeeth Celebration — Dancing under the lights",
+      src: "./editable/assets/moment-1.jpg",
+      alt: "Raji Reddy & Pravallika — Smiles & Love",
     },
     {
-      src: "./editable/assets/gallery-2.png",
+      src: "./editable/assets/moment-2.jpg",
+      alt: "Raji Reddy & Pravallika — Cherished Moments",
+    },
+    {
+      src: "./editable/assets/moment-3.jpg",
+      alt: "Raji Reddy & Pravallika — Together in Elegance",
+    },
+    {
+      src: "./editable/assets/moment-4.jpg",
+      alt: "Raji Reddy & Pravallika — Forever & Always",
+    },
+    {
+      src: "./editable/assets/event-sangeeth.png",
+      alt: "Sangeeth Celebration — Dancing the night away",
+    },
+    {
+      src: "./editable/assets/event-haldi.png",
       alt: "Lavender Themed Haldi Ceremony",
     },
     {
-      src: "./editable/assets/gallery-3.png",
-      alt: "Carnival cum Mehendi — Music, Colors and Joy",
+      src: "./editable/assets/event-carnival.png",
+      alt: "Rainbow Carnival cum Mehendi Festivities",
     },
     {
-      src: "./editable/assets/gallery-4.png",
+      src: "./editable/assets/event-wedding.png",
       alt: "Traditional Telugu Wedding Ceremony",
-    },
-    {
-      src: "./editable/assets/gallery-5.png",
-      alt: "Pravallika — The Bride",
-    },
-    {
-      src: "./editable/assets/gallery-6.png",
-      alt: "Raji Reddy — The Groom",
     },
   ],
 
   families: {
-    bride: {
-      label: "The Bride's Family",
-      title: "Pravallika's Family",
-      photo: "./editable/assets/portrait-bride.png",
-      members: [
-        { name: "Family of the Bride", relation: "With love & blessings" },
-      ],
-    },
     groom: {
       label: "The Groom's Family",
       title: "Raji Reddy's Family",
@@ -150,16 +151,24 @@ window.WEDDING_DATA = {
         { name: "Family of the Groom", relation: "With love & blessings" },
       ],
     },
+    bride: {
+      label: "The Bride's Family",
+      title: "Pravallika's Family",
+      photo: "./editable/assets/portrait-bride.png",
+      members: [
+        { name: "Family of the Bride", relation: "With love & blessings" },
+      ],
+    },
   },
 
   calendar: {
-    title: "Pravallika & Raji Reddy — Wedding Celebrations",
-    description: "Wedding celebrations at Eco Villagio.",
+    title: "Raji Reddy & Pravallika — Wedding Ceremony",
+    description: "Wedding ceremony & celebrations at Eco Villagio.",
     durationHours: 3,
   },
 
   footer: {
     thanks: "Thank you for celebrating with us",
-    copyright: "© 2026 Pravallika & Raji Reddy · Handcrafted with love by InviteStory",
+    copyright: "© 2026 Raji Reddy & Pravallika · Handcrafted with love by InviteStory",
   },
 };
