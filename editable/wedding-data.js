@@ -20,8 +20,8 @@ window.WEDDING_DATA = {
   tagline: `Two strangers brought together · Forever begins now.\n#prara`,
 
   hero: {
-    childhoodGroom: "./editable/assets/childhood-groom.png",
-    childhoodBride: "./editable/assets/childhood-bride.png",
+    childhoodGroom: "./editable/assets/childhood-bride.png",
+    childhoodBride: "./editable/assets/childhood-groom.png",
     portraitGroom: "./editable/assets/portrait-groom.png",
     portraitBride: "./editable/assets/portrait-bride.png",
     bodyGroom: "./editable/assets/body-groom.png",
