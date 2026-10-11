@@ -67,8 +67,8 @@ window.WEDDING_DATA = {
         date: "Friday, November 13th, 2026",
         time: "From 7:00 PM Onwards",
         venue: "Eco Villagio",
-        note: "Friends and family dancing together on the floor at a lively Sangeeth celebration",
-        dressCode: "Festive Indo-Western / Traditional",
+        note: "Party-themed celebration with dancing, music, and festivities",
+        dressCode: "Sparkling Indo-western",
         image: "./editable/assets/event-sangeeth.png",
       },
       {
@@ -77,7 +77,7 @@ window.WEDDING_DATA = {
         time: "9:00 AM",
         venue: "Eco Villagio",
         note: "A vibrant Haldi ceremony in a beautiful lavender-themed setting",
-        dressCode: "Lavender-coloured traditional outfits for guests",
+        dressCode: "Lavender color traditional outfits",
         image: "./editable/assets/event-haldi.png",
       },
       {
@@ -141,7 +141,7 @@ window.WEDDING_DATA = {
     groom: {
       label: "The Groom's Family",
       title: "Raji Reddy's Family",
-      photo: "./editable/assets/portrait-groom.png",
+      photo: "./editable/assets/family-bride.png",
       members: [
         { name: "Family of the Groom", relation: "With love & blessings" },
       ],
@@ -149,7 +149,7 @@ window.WEDDING_DATA = {
     bride: {
       label: "The Bride's Family",
       title: "Pravallika's Family",
-      photo: "./editable/assets/portrait-bride.png",
+      photo: "./editable/assets/family-bride.png",
       members: [
         { name: "Family of the Bride", relation: "With love & blessings" },
       ],
