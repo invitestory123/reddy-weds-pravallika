@@ -141,7 +141,7 @@ window.WEDDING_DATA = {
     groom: {
       label: "The Groom's Family",
       title: "Raji Reddy's Family",
-      photo: "./editable/assets/family-bride.png",
+      photo: "./editable/assets/family-groom.png",
       members: [
         { name: "Family of the Groom", relation: "With love & blessings" },
       ],
